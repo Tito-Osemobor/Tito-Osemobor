@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a 2nd year Computer Science co-op student at Toronto Metropolitan University
 - 🌱 I’m currently learning Front-End Developement
 - 🔭 I’m currently looking for a Summer 2023 internship
