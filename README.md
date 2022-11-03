@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h1>Hey there 👋, My name is Tito</h1>
 <h3>2nd year CS Student at Toronto Metropolitan University</h3>
 
-- 🌱 I’m currently learning Front-end Developement **(JavaScript, React)**
+- 🌱 I’m currently learning Front-end Developement **(JavaScript and its various frameworks)**
 - 🔭 I’m currently looking for a Summer 2023 internship
 
 <h3 align="left">Connect with me:</h3>
