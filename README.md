@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- I'm a 2nd year Computer Science co-op student at Toronto Metropolitan University
-- 🌱 I’m currently learning Front-End Developement
+<!-- I'm a Computer Science co-op student at Toronto Metropolitan University
+- 🌱 I’m currently specializing in Front-End Developement
 - 🔭 I’m currently looking for a Summer 2023 internship -->
 
 <h1>Hey there 👋, My name is Tito</h1>
-<h3>2nd year CS Student at Toronto Metropolitan University</h3>
+<h3>CS Student at Toronto Metropolitan University</h3>
 
 - 🌱 I’m currently learning **React & Back-end Developement**
-- 🔭 I’m currently looking for a Summer 2023 internship
+- 🔭 I’m currently looking for a FALL 2023 internship
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
