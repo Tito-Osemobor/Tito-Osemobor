@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently looking for a Summer 2023 internship -->
 
 <h1>Hey there 👋, My name is Tito</h1>
-<h3>Operations Analyst @ RBC || CS @ TMU</h3>
+<h3>Computer Science @ TMU || Prev @ RBC</h3>
 
 - 🌱 I’m currently learning **React & Back-end Developement**
 - 🔭 I’m currently looking for FALL 2023 internships
