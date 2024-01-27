@@ -1,4 +1,4 @@
-# Hey! 👋, I am Tito Osemobor
+# Hey! 👋, I'm Tito
 > Software Developer Intern @ RBC | 3<sup>rd</sup> year Computer Science Major @ TMU, Toronto, ON, Canada
 
 <div align="center">
