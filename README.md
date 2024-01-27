@@ -17,6 +17,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="React.js" src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="JQuery" src="https://img.shields.io/badge/jquery-blue?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
   <!-- <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> -->
@@ -34,7 +35,8 @@
   <!-- <img alt="Elastic" src="https://img.shields.io/badge/-Elastic-005571?style=flat-square&logo=elastic&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" /> -->
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <!-- <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> -->
+  <img alt="Postman" src="https://img.shields.io/badge/postman-orange?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-orange?style=flat-square&logo=jenkins&logoColor=white" />
 </p>
