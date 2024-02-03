@@ -2,12 +2,15 @@
 > Software Developer Intern @ RBC | 3<sup>rd</sup> year Computer Science Major @ TMU, Toronto, ON, Canada
 
 <div align="center">
-    <a href="https://github.com/Tito-Osemobor"">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tito-Osemobor&theme=bear&show_icons=true" alt="Tito's GitHub Stats">
-    </a>
     <a href="https://github.com/Tito-Osemobor">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tito-Osemobor&theme=bear&hide_progress=true&layout=compact" alt="Top Languages">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tito-Osemobor&theme=dark&show_icons=true&hide_border=false&count_private=true">
     </a>
+<!--     <a href="https://github.com/Tito-Osemobor">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tito-Osemobor&theme=dark&hide_border=false">
+    </a> -->
+    <a href="https://github.com/Tito-Osemobor">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tito-Osemobor&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages">
+    </a>\
 </div>
 
 ## :hammer_and_wrench: Tools and Technologies
