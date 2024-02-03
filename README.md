@@ -10,7 +10,7 @@
     </a> -->
     <a href="https://github.com/Tito-Osemobor">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tito-Osemobor&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages">
-    </a>\
+    </a>
 </div>
 
 ## :hammer_and_wrench: Tools and Technologies
