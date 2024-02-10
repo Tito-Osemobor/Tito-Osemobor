@@ -1,7 +1,7 @@
-# Hey! 👋, I'm Tito
-> Software Developer Intern @ RBC | 3<sup>rd</sup> year Computer Science Major @ TMU, Toronto, ON, Canada
+# Hey! I'm Tito 👋🏾
+**`Software Developer Intern @ RBC | Computer Science Major @ TMU`**
 
-<div align="center">
+<div>
     <a href="https://github.com/Tito-Osemobor">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tito-Osemobor&theme=dark&show_icons=true&hide_border=false&count_private=true">
     </a>
@@ -13,12 +13,12 @@
     </a>
 </div>
 
-## :hammer_and_wrench: Tools and Technologies
+## :hammer_and_wrench: Languages, Frameworks & Tools
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="React.js" src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React.js" src="https://img.shields.io/badge/-React.js-00AAFF?style=flat-square&logo=react&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="JQuery" src="https://img.shields.io/badge/jquery-blue?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -42,6 +42,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-orange?style=flat-square&logo=jenkins&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
 
 ## :link: Connect with me
