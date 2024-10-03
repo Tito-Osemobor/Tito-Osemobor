@@ -1,5 +1,5 @@
 # Hey! I'm Tito 👋🏾
-**`Software Developer Intern @ RBC | Computer Science Major @ TMU`**
+**`Backend Developer Intern @ RBC | Computer Science Major @ TMU`**
 
 <div>
     <a href="https://github.com/Tito-Osemobor">
