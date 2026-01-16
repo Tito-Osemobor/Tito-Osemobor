@@ -1,18 +1,6 @@
 # Hey! I'm Tito 👋🏾
 **Computer Science @ TMU**
 
-<div>
-    <a href="https://github.com/Tito-Osemobor">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tito-Osemobor&theme=dark&show_icons=true&hide_border=false&count_private=true">
-    </a>
-<!--     <a href="https://github.com/Tito-Osemobor">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tito-Osemobor&theme=dark&hide_border=false">
-    </a> -->
-    <a href="https://github.com/Tito-Osemobor">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tito-Osemobor&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages">
-    </a>
-</div>
-
 ## :hammer_and_wrench: Languages, Frameworks & Tools
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
